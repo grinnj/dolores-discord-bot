@@ -1,0 +1,14 @@
+{
+	"name": "Dolores",
+	"version": "0.4.4",
+	"description": "High intelligence android named Dolores",
+	"main": "Dolores.js",
+	"author": "NuggeT #7716",
+	"dependencies": {
+		"cleverbot-free": "^1.0.5",
+		"discord.js": "^11.3.2"
+	},
+	"scripts": {
+		"start": "node Dolores.js"
+	}
+}
